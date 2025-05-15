@@ -8,7 +8,6 @@ This project was born out of a real-world issue — the current university resul
 
 In addition to basic result access, the platform will include statistical graphs, difficulty analysis by subject, and batch-wise result comparisons — making it not just a viewer, but a complete result insight tool.
 
----
 
 ## 🧠 Key Features
 
@@ -20,13 +19,12 @@ In addition to basic result access, the platform will include statistical graphs
 - 🔐 Scraper + Backend API to store results
 - ☁️ Cloud-hosted for 24/7 availability
 
----
 
 ## 🖥️ Demo Frontend
 
 A working demo frontend is under private development. Frontend is built with **ReactJS** using modular components and state management hooks.
 
----
+
 
 ## 📦 Tech Stack
 
@@ -36,7 +34,6 @@ A working demo frontend is under private development. Frontend is built with **R
 - **Scraper:** Custom-built using Node.js
 - **Hosting:** GitHub Actions, Render (or other free cloud services)
 
----
 
 ## 🛠️ Setup Instructions
 
@@ -52,8 +49,6 @@ npm install
 4. Run server
 node server.js
 
-
----
 
 ## ✅ To-Do List
 
@@ -96,19 +91,15 @@ node server.js
 - [ ] Add download/export result feature
 - [ ] Add result sharing option
 
----
 
 ## 📎 Public GitHub Repo
 
 🔗 [https://github.com/sanwar-hosen/result-viewer-DIU](https://github.com/sanwar-hosen/result-viewer-DIU)
 
----
 
 ## 🙌 Contribution
 
 PRs are welcome! If you're from DIU and want to help out or improve the project, feel free to fork and submit a pull request.
-
----
 
 
 ## License
